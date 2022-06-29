@@ -1,4 +1,4 @@
-# randomSeedMap
+# 2dSandboxGame
 
 ## 目的
 ・テラリアライクなサンドボックスゲームを作ってみたかったため。
